@@ -42,13 +42,3 @@ align-items: center;
 margin-bottom: 16px;
 font-weight: bold;
 `
-export const SocialIcons = styled.div`
-display: flex;
-justify-content: space-between;
-align-items: center;
-width: 240px;
-`
-export const SocialIconLink = styled.a`
-color:#fff;
-font-size: 24px;
-`
